@@ -11,5 +11,6 @@ public class gitTest {
         System.out.println("fitfitfitfitfit");
         System.out.println("push ");
         System.out.println("pull test ");
+        个人呢醒一下
     }
 }
